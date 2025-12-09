@@ -1,0 +1,16 @@
+{
+  "name": "H&O Botic",
+  "short_name": "HOBotic",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#00bfff",
+  "theme_color": "#00bfff",
+  "description": "Sistema completo de botica",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
